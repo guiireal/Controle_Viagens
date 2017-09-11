@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Controle De Viagens</string>
+    <string name="infoLogin">Informe o Usuário</string>
+    <string name="infoSenha">Informe a Senha</string>
+    <string name="infoEntrar">Entrar</string>
+    <string name="infoErroAutenticacao">Usuario e/ou senha inválidos</string>
+    <string name="novoGasto">Novo Gasto</string>
+    <string name="novaViagem">Nova Viagem</string>
+    <string name="minhasViagens">Minhas Viagens</string>
+    <string name="configuracoes">Configuracoes</string>
+    <string name="destino">Destino</string>
+    <string name="tipoViagem">Tipo da Viagem</string>
+    <string name="lazer">Lazer</string>
+    <string name="negocios">Negocios</string>
+    <string name="dataChegada">Data de Chegada</string>
+    <string name="dataSaida">Data de Saída</string>
+    <string name="selecione">Selecione</string>
+    <string name="orcamento">Orcamento</string>
+    <string name="quantidadePessoas">Quantidade de Pessoas</string>
+    <string name="salvar">Salvar</string>
+</resources>
